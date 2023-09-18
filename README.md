@@ -3,6 +3,6 @@ The button will take the string from the text entry and change the textview to H
 anything into the text entry it states to "Enter your name...".
 
 
-![alt text](https://github.com/KevinXJarema/HelloWorldLab/blob/master/appsnip.jpg?raw=true)
+![alt text](https://github.com/KevinXJarema/HelloWorldLab/blob/master/appsnip.png?raw=true)
 
-![alt text](https://github.com/KevinXJarema/HelloWorldLab/blob/master/othersnip.jpg?raw=true)
+![alt text](https://github.com/KevinXJarema/HelloWorldLab/blob/master/othersnip.png?raw=true)
